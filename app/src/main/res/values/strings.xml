@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Point Pursuit</string>
+    <string name="titlenotset">TitleNotSet</string>
+    <string name="Utilisation_Stylet">L\'utilisation d\'un stylet est recommandée</string>
+    <string name="jouer">▶ JOUER</string>
+    <string name="choisir_une_grille">Choisir une grille</string>
+    <string name="parametres">Parametres</string>
+    <string name="victoire">Victoire !</string>
+</resources>

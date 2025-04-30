@@ -1,0 +1,42 @@
+<puzzle size="9" nom="Puzzle 4">
+    <paire> 
+        <point colonne="0" ligne="5" />
+        <point colonne="2" ligne="4" />
+    </paire>
+    <paire> 
+        <point colonne="0" ligne="3" />
+        <point colonne="1" ligne="4" />
+    </paire>
+    <paire>
+        <point colonne="7" ligne="4" />
+        <point colonne="8" ligne="8" />
+    </paire>
+    <paire>
+        <point colonne="0" ligne="1" />
+        <point colonne="5" ligne="3" />
+    </paire>
+    <paire>
+        <point colonne="0" ligne="7" />
+        <point colonne="6" ligne="4" />
+    </paire>
+    <paire>
+        <point colonne="0" ligne="2" />
+        <point colonne="2" ligne="6" />
+    </paire>
+    <paire>
+        <point colonne="0" ligne="6" />
+        <point colonne="5" ligne="4" />
+    </paire>
+    <paire>
+        <point colonne="6" ligne="1" />
+        <point colonne="7" ligne="7" />
+    </paire>
+    <paire>
+        <point colonne="3" ligne="1" />
+        <point colonne="6" ligne="3" />
+    </paire>
+    <paire>
+        <point colonne="0" ligne="0" />
+        <point colonne="8" ligne="2" />
+    </paire>
+</puzzle>

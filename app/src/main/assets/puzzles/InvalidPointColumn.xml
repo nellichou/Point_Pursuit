@@ -1,0 +1,11 @@
+<puzzle size="5" nom="PointPartiALOuest">
+  <paire>
+    <point colonne="47" ligne="0" />
+    <point colonne="3" ligne="3" />
+  </paire>
+  <paire>
+    <point colonne="2" ligne="23" />
+    <point colonne="2" ligne="2" />
+  </paire>
+
+</puzzle>

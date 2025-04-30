@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#FF0000</color>
+    <color name="green">#39FF14</color>
+    <color name="khaki">#BDB76B</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#FF991C</color>
+    <color name="purple">#800080</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="ocre">#CC7722</color>
+    <color name="black">#000000</color>
+    <color name="salmon">#FFFA8072</color>
+    <color name="teal">#008080</color>
+    <color name="maroon">#800000</color>
+    <color name="olive">#808000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="ok_coral">#FF7F50</color>
+    <color name="snugglepuss">#FF9897BB</color>
+    <color name="red_wine">#FFE33170</color>
+    <color name="arsenic">#FF3B444B</color>
+    <color name="careless_whisper">#FFE7C3AF</color>
+    <color name="chartreuse">#FF7FFF00</color>
+    <color name="marry_me">#F1D6CF</color>
+    <color name="feel_the_energy">#C9D479</color>
+    <color name="nacho_cheese">#FFC76C</color>
+    <color name="pigeon_gray">#AAAEB2</color>
+    <color name="pretty_ugly">#4A412A</color>
+    <color name="silver_lake_dad">#5D89BA</color>
+    <color name="un_teal_we_meet_again">#7BC7CB</color>
+    <color name="very_green">#17775C</color>
+
+
+
+    <array name="colors_array">
+        <item>@color/green</item>
+        <item>@color/red</item>
+        <item>@color/khaki</item>
+        <item>@color/blue</item>
+        <item>@color/yellow</item>
+        <item>@color/orange</item>
+        <item>@color/purple</item>
+        <item>@color/cyan</item>
+        <item>@color/pink</item>
+        <item>@color/black</item>
+        <item>@color/salmon</item>
+        <item>@color/ocre</item>
+        <item>@color/teal</item>
+        <item>@color/maroon</item>
+        <item>@color/olive</item>
+        <item>@color/silver</item>
+        <item>@color/chartreuse</item>
+        <item>@color/snugglepuss</item>
+        <item>@color/red_wine</item>
+        <item>@color/arsenic</item>
+        <item>@color/careless_whisper</item>
+        <item>@color/ok_coral</item>
+        <item>@color/marry_me</item>
+        <item>@color/feel_the_energy</item>
+        <item>@color/nacho_cheese</item>
+        <item>@color/pigeon_gray</item>
+        <item>@color/pretty_ugly</item>
+        <item>@color/very_green</item>
+        <item>@color/silver_lake_dad</item>
+        <item>@color/un_teal_we_meet_again</item>
+    </array>
+
+    <color name="white">#FFFFFF</color>
+    <color name="graybackground">#A9A9A9</color>
+    <color name="bluebackground">#ADD8E6</color>
+</resources>

@@ -1,0 +1,6 @@
+<puzzle size="13" nom="Sneaky boy">
+    <paire>
+        <point colonne="0" ligne="0" />
+        <point colonne="12" ligne="12" />
+    </paire>
+</puzzle>

@@ -1,0 +1,22 @@
+<puzzle size="6">
+    <paire>
+        <point colonne="0" ligne="0" />
+        <point colonne="5" ligne="0" />
+    </paire>
+    <paire>
+        <point colonne="4" ligne="4" />
+        <point colonne="5" ligne="1" />
+    </paire>
+    <paire>
+        <point colonne="1" ligne="0" />
+        <point colonne="2" ligne="3" />
+    </paire>
+    <paire>
+        <point colonne="2" ligne="5" />
+        <point colonne="5" ligne="2" />
+    </paire>
+    <paire>
+        <point colonne="0" ligne="2" />
+        <point colonne="1" ligne="5" />
+    </paire>
+</puzzle>
